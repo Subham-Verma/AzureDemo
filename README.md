@@ -1,10 +1,7 @@
-| Language | Platform | Author |
-| -------- | --------|--------|
-| HTML |  Azure Web App, Virtual Machine| |
 
-# Sample HTML website 
+# Create and deploy web apps on Azure 
+Walkthrough: https://subhamverma.azurewebsites.net/createwebapp.html
 
-Sample HTML/CSS web app that you can deploy to Azure. 
 
 ## License
 
